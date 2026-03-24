@@ -1,0 +1,17 @@
+# AI Content Creator - Requirements
+
+# Core dependencies
+moviepy==1.0.3
+pillow==10.2.0
+requests==2.31.0
+python-dotenv==1.0.1
+schedule==1.2.1
+
+# Optional dependencies (for notifications)
+# Uncomment if you want to use email notifications
+# None required - uses built-in smtplib
+
+# Development dependencies (optional)
+# pytest==8.0.0
+# black==24.1.1
+# flake8==7.0.0
