@@ -720,7 +720,7 @@ https://railway.app
 # Step 4: Local setup karo
 setup_agent.bat https://your-project.up.railway.app
 
-# Step 5: Enjoy! 🎉
+# Step 5: Enjoy!  🎉
 ```
 
 ---
